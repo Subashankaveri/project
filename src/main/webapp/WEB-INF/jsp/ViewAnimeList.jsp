@@ -35,7 +35,7 @@
 
     <div class="container">
 
-        <h1 class="p-3">Anime my List</h1>
+        <h1 class="p-3">Anime List</h1>
 
         <form:form>
 
