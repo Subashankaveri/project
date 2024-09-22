@@ -35,7 +35,7 @@
 
     <div class="container">
 
-        <h1 class="p-3">Anime an THe List</h1>
+        <h1 class="p-3">Anime an List</h1>
 
         <form:form>
 
